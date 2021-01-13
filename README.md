@@ -1,5 +1,5 @@
-# 본 repository는 '모두를 위한 딥러닝 시즌2'를 개인적으로 정리하고 공부하기 위한 공간입니다. 
-
+# 본 repository는 '모두를 위한 딥러닝 시즌2'에서 제공하는 코드를 개인적으로 정리하고 공부하기 위한 공간입니다. 
+## 코드 출처 : https://github.com/deeplearningzerotoall/PyTorch
 
 # 모두를 위한 딥러닝 시즌2 : 모두가 만드는 모두를 위한 딥러닝
 
